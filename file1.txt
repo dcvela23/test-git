@@ -1,2 +1,1 @@
-Changes in master after feature 1
-
+Changes in feature  resolve conflicts1
