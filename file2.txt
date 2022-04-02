@@ -1,1 +1,6 @@
-changes in master 2 
+changes in feature 2
+
+of course
+
+
+end. 
