@@ -1,1 +1,1 @@
-master commit 1 file 1 change
+change in feature branch commit 1 file 1 RESOLVE CONFLICTS WITH MASTER
