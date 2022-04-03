@@ -1,1 +1,1 @@
-commit 2 master change file 2
+change in feature branch commit 2 file 2 RESOLVE CONFLICTS WITH MASTER
