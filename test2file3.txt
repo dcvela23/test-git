@@ -1,1 +1,1 @@
-change in commit 3 master file 3
+change in feature branch commit 3 file 3 RESOLVE CONFLICTS WITH MASTER
